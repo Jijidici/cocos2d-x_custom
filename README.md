@@ -16,4 +16,7 @@ platform/win32/CCEGLView.cpp
   - add "GLFW_RELEASE == action" as a third parameter in the EventKeyboard constructor (l.343)
 
 
-Work on Windows
+Works on Windows
+
+
+To use the engine, clone this repo in the cocos2dx/ folder of your Cocos2d project workspace
